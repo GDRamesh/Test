@@ -1,5 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This change is from Local Copy
 =======
 >>>>>>> e4f9d8631d1eabdcf68611592162904ca02c0976
 Freature new
+=======
+This is test file.
+Test file
+Feature branhc
+one line from local
+one more line
+>>>>>>> Feature-1
